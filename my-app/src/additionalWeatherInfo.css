@@ -1,0 +1,47 @@
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  list-style: none;
+}
+
+#current-degree {
+  font-size: 120px;
+  color: rgb(255, 140, 50);
+}
+#current-description {
+  text-transform: capitalize;
+}
+
+.city-info {
+  text-align: left;
+}
+.degree-info {
+  margin-top: 15px;
+  text-align: left;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+}
+.weather-additional-info {
+  text-align: left;
+  position: relative;
+  left: 320px;
+  top: -83px;
+  font-size: 16px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  color: rgb(120, 122, 145);
+}
+
+#celsius-link,
+#fahrenheit-link {
+  text-decoration: none;
+  color: rgb(236, 153, 75);
+  position: relative;
+  top: -72px;
+  font-weight: 300;
+}
+.col.degree-info {
+  margin-left: 140px;
+}
