@@ -12,7 +12,7 @@ function App() {
         <footer>
           Open-source code by {""}
           <a
-            href="https://github.com/Veronika-Podolska/my-app"
+            href="https://github.com/Veronika-Podolska/new-app"
             target="_blank"
             rel="noreferrer"
           >
